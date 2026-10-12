@@ -1,0 +1,50 @@
+/* Bước 3: thẻ body - họ phông chữ và cỡ chữ */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #1a1a1a;
+}
+
+/* Bước 4: thẻ header - màu nền */
+header {
+    background-color: #cfe3f5;
+}
+
+/* Bước 5: thẻ nav - màu nền */
+nav {
+    background-color: #e8eef4;
+}
+
+/* Bước 6: thẻ main - màu nền và cỡ chữ */
+main {
+    background-color: #ffffff;
+    font-size: 18px;
+}
+
+/* Bước 7: thẻ footer - màu nền */
+footer {
+    background-color: #dfe6ec;
+}
+
+/* Bước 8: thẻ li - hiển thị và chiều rộng */
+li {
+    display: inline-block;
+    width: 150px;
+}
+
+/* Bước 9: thẻ h1 - căn chỉnh, phông chữ, màu */
+h1 {
+    text-align: center;
+    font-family: Georgia, "Times New Roman", serif;
+    color: #1a3b5c;
+}
+
+/* Bước 10: thẻ p - chiều cao dòng */
+p {
+    line-height: 1.6;
+}
+
+/* Thêm: màu liên kết đủ tương phản trên nền sáng */
+a {
+    color: #0b3d91;
+}
